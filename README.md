@@ -8,7 +8,7 @@ I'm Luis Munaira, a passionate software developer and tech enthusiast. Here you 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMunaira&layout=compact)
 # 
 <div align="center">
-<h3>Linguagens de Programação</h3>
+<h3>Skills</h3>
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
