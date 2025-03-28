@@ -12,9 +12,11 @@
 <h3>Skills</h3>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=Python,Java,JavaScript,Php,Laravel,Spring,Django,Flutter,github,figma,git,Packet_Tracer,Linux,Kotlin" />
-    <img src="https://skillicons.dev/icons?i=Xammp,mysql,Docker" /><br>
+    <img src="https://skillicons.dev/icons?i=Python,Java,JavaScript,Php,Laravel,Spring,Django,Flutter,github,figma,git,Packet_Tracer,Linux,Kotlin" alt="Tech Skills 1" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=Xammp,mysql,Docker" alt="Tech Skills 2" />
 </div>
+
 
 
 
