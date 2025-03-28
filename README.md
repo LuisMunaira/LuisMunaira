@@ -3,10 +3,12 @@
 I'm Luis Munaira, a passionate software developer and tech enthusiast. Here you can find some of my projects, achievements, and statistics.
 
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LuisMunaira.LuisMunaira" />
+<p align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=LuisMunaira.LuisMunaira" />
+</p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+👨🏽‍💻;+I'm + IT Engineer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+👨🏽‍💻;+I'm+an+IT+Engineer;" />
 </h1>
 
 ## GitHub Stats
