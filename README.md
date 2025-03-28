@@ -1,14 +1,11 @@
-# Welcome to My GitHub Profile
+# 
 
-I'm Luis Munaira, a passionate software developer and tech enthusiast. Here you can find some of my projects, achievements, and statistics.
-
-
-<p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=LuisMunaira.LuisMunaira" />
+<p align="left">
+    <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=LuisMunaira.LuisMunaira" /> -->
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+👨🏽‍💻;+I'm+an+IT+Engineer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+I'm+a+Computer+Engineer 👨🏽‍💻;" />
 </h1>
 
 ## GitHub Stats
