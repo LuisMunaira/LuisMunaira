@@ -12,7 +12,7 @@
 <h3>Skills</h3>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,ts,js,php,cpp,kotlin,swift,laravel,spring,django,anaconda,flutter,github" alt="Tech Skills 1" />
+    <img src="https://skillicons.dev/icons?i=python,java,ts,js,php,go,cpp,kotlin,swift,laravel,spring,django,anaconda,flutter,github" alt="Tech Skills 1" />
     <br>
     <img src="https://skillicons.dev/icons?i=css,html,figma,ps,git,materialui,react,dart,vscode" alt="Tech Skills 2" />
     <br>
