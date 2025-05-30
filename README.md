@@ -18,7 +18,7 @@
     <br>
     <img src="https://skillicons.dev/icons?i=mysql,docker,postgres,mongodb,linux,arch" alt="Tech Skills 2" />
 </div>
-//kotlin,swift
+
 
 
 
